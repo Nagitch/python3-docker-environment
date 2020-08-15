@@ -14,3 +14,5 @@ make sure you're ready to use Docker Desktop and follow steps below.
     ...
     ```
 3. now container is up. you can make connection with VSCode Remote - Containers.
+
+`opt` is prepared directory that doing what you want.
